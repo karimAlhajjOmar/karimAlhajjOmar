@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning assembly, osDev
 - 📫 How to reach me : NO WAY
 - 📋 Pronouns: he/him
-- ⚡ Fun fact: I don't like LGBTQ+ (my freedom)
+- ⚡ Fun fact: Computers are dumb
 - 🎯 My goal: Code faster than light (impossible)
 
 <!---
