@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @karimAlhajjOmar
 - 🌟 I’m interested in **CyberSecurity**
-- 🌱 I’m currently learning assembly, osDev (stopped for my Kodan project)
+- 🌱 I’m currently learning assembly
 - 📫 How to reach me : NO WAY
 - 📋 Pronouns: he/him
 - ⚡ Fun fact: Computers are dumb
-- 🎯 My goal: Finish **Kodan** it is free shodan alternative, that works locally (you can host your own server for it)
+- 🎯 My goal: 1#
 
 <!---
 karimAlhajjOmar/karimAlhajjOmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
